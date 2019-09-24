@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ML App</string>
+    <string name="text_recognize_string">Text Recognize</string>
+    <string name="face_detect_string">Face Detect</string>
+    <string name="scan_barcodes_string">Scan Barcodes</string>
+    <string name="face_detection_title_string">Face Detection</string>
+    <string name="barcode_scanner_title_string">Barcode Scanner</string>
+</resources>
