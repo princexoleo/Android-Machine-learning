@@ -5,4 +5,6 @@
     <string name="scan_barcodes_string">Scan Barcodes</string>
     <string name="face_detection_title_string">Face Detection</string>
     <string name="barcode_scanner_title_string">Barcode Scanner</string>
+    <string name="image_content_desc">This will capture image</string>
+    <string name="capture_string">Capture</string>
 </resources>
