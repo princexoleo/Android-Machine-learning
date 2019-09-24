@@ -7,4 +7,5 @@
     <string name="barcode_scanner_title_string">Barcode Scanner</string>
     <string name="image_content_desc">This will capture image</string>
     <string name="capture_string">Capture</string>
+    <string name="text_detect_string">Text Detect</string>
 </resources>
