@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "799575676790",
+    "firebase_url": "https://ml-app-dc847.firebaseio.com",
+    "project_id": "ml-app-dc847",
+    "storage_bucket": "ml-app-dc847.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799575676790:android:10970ec260436bea4d4c57",
+        "android_client_info": {
+          "package_name": "leo.practice.mlapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799575676790-2h016vpi5mek2h24ar6sgg736vhnvba5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdYRZpylQoNrBoISW7B-vSttdBYyCd6EE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799575676790-2h016vpi5mek2h24ar6sgg736vhnvba5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
